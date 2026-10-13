@@ -49,7 +49,7 @@ I'm passionate about writing clean, maintainable code, solving challenging probl
 <div align="left">
   <img src="https://cdn.simpleicons.org/angular/DD0031" height="40" alt="angular logo" />
   <img width="12" />
-  <img src="https://cdn.simpleicons.org/rxjs/B7178C" height="40" alt="rxjs logo" />
+  <img src="https://rxjs.dev/generated/images/marketing/home/Rx_Logo-512-512.png" height="40" alt="rxjs logo" />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" height="40" alt="bootstrap logo" />
   <img width="12" />
