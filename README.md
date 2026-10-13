@@ -1,4 +1,3 @@
-```html
 <h1 align="left">Hey 👋 What's up?</h1>
 
 ###
@@ -89,14 +88,6 @@ I'm passionate about writing clean, maintainable code, solving challenging probl
 
 ###
 
-<h2 align="left">Currently Working On 🚀</h2>
-
-- Building **FlowSync**, a project management application using Angular and ASP.NET Core.
-- Strengthening my backend development skills with .NET, Entity Framework Core, and SQL Server.
-- Improving my understanding of software architecture, authentication, API design, and maintainable application development.
-
-###
-
 <h2 align="left">Let's Connect 🤝</h2>
 
 <div align="left">
@@ -107,4 +98,3 @@ I'm passionate about writing clean, maintainable code, solving challenging probl
     <img src="https://img.shields.io/static/v1?message=GitHub&logo=github&label=&color=181717&logoColor=white&style=for-the-badge" height="35" alt="github badge" />
   </a>
 </div>
-```
